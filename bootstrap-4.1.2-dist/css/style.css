@@ -1,0 +1,46 @@
+body{
+    background-color: #B4C5E4;
+}
+
+h1{
+    font-size: 65px;
+    color: #2C2A4A;
+}
+
+h2{
+    font-size: 45px;
+}
+
+h3{
+    padding-top: 100px;
+    font-size: 35px;
+}
+
+h4{
+    font-size: 28px;
+}
+
+.nav-pills{
+    background-color: #2C2A4A;
+    font-size: 37px;
+    color:  white;
+}
+
+.card{
+    border-radius: 50%;
+    background-color: #2C2A4A;
+    color: white;
+}
+
+.circle{
+    border-radius: 50%;
+}
+
+.resumeName{
+    font-size: 100px;
+    font-family: impact;
+}
+
+.resumeCategories h2{
+    text-decoration: underline;
+}
