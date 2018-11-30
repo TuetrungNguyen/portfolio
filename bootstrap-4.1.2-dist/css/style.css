@@ -22,7 +22,7 @@ h4{
 
 .nav-pills{
     background-color: #2C2A4A;
-    font-size: 37px;
+    font-size: 32px;
     color:  white;
 }
 
@@ -41,6 +41,18 @@ h4{
     font-family: impact;
 }
 
+.project_name{
+    padding: 50px;
+}
+
+.main_title{
+    padding: 50px;
+}
+
 .resumeCategories h2{
     text-decoration: underline;
+}
+
+.round_image{
+    border-radius:50%;
 }
